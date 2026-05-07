@@ -67,7 +67,7 @@ Support for threaded simulation experiments where miner and network activities c
 ### DY (Dynamic Block Generation)
 Dynamic DAG growth simulation where block generation rates and miner behaviour evolve during runtime. This supports modelling adaptive network conditions and varying system loads.
 
-### Manual Miner and Block Entry
+### Man (Manual Miner and Block Entry)
 Support for controlled experimental configurations with manually specified miners, blocks, and DAG structures for deterministic evaluation and debugging.
 
 ### Network Delay Modelling
