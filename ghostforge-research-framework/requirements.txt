@@ -1,5 +1,0 @@
-networkx>=2.8
-matplotlib>=3.6
-numpy>=1.23
-pandas>=1.5
-graphviz>=0.20
